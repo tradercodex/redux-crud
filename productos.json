@@ -1,0 +1,54 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "nombre": "chocolates",
+      "precio": "10"
+    },
+    {
+      "id": 4,
+      "nombre": "Pastel de Zanahoria",
+      "precio": "120"
+    },
+    {
+      "id": 5,
+      "nombre": "Pastel de Chocolate",
+      "precio": "12"
+    },
+    {
+      "id": 6,
+      "nombre": "Crema Volteadas",
+      "precio": "100"
+    },
+    {
+      "id": 7,
+      "nombre": "Chocolate calientesitos",
+      "precio": "12"
+    },
+    {
+      "id": 8,
+      "nombre": "platanos",
+      "precio": "20"
+    },
+    {
+      "id": 9,
+      "nombre": "Zanahoria",
+      "precio": "200"
+    },
+    {
+      "id": 10,
+      "nombre": "Chocolatada",
+      "precio": "1000"
+    },
+    {
+      "nombre": "Crema molteado",
+      "precio": "10",
+      "id": 11
+    },
+    {
+      "nombre": "Crema de vainilla",
+      "precio": "100",
+      "id": 12
+    }
+  ]
+}
