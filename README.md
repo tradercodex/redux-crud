@@ -8,4 +8,4 @@
 
 Ya instaladas las dependencias escribe:<br> npm start
 
-<p align="center"> <img src="imagenes/productos.png" width="900"/></p>
+<p align="center"> <img src="src/imagenes/productos.png" width="900"/></p>
