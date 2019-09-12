@@ -1,12 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Pasos para empezar
 
-## Available Scripts
-
-In the project directory, you can run:
+1: Abre el proyecto en tu editor
+2: Localizate en tu proyecto redux-crud
+3: Pon el comando npm install para instalar las dependencias.
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Ya instaladas las dependencias escribe: npm start
 
 <p align="center"> <img src="imagenes/productos.png" width="900"/></p>
