@@ -8,4 +8,17 @@
 
 Ya instaladas las dependencias escribe:<br> npm start
 
+### Vista de todos los productos
+
 <p align="center"> <img src="src/imagenes/productos.png" width="900"/></p>
+<br>
+
+### Vista para agregar un producto
+
+<p align="center"> <img src="src/imagenes/nuevo.png" width="900"/></p>
+<br>
+
+### Vista para editar un producto
+
+<p align="center"> <img src="src/imagenes/editar.png" width="900"/></p>
+<br>
